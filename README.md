@@ -2,3 +2,4 @@
 This project visualizes key performance indicators such as total sales, profit, orders, and average order value, along with advanced analytics including category performance, city-wise sales, sales representative performance, and discount impact analysis.
 ![image alt](https://github.com/salaarakhter/AI-Powered-Sales-Analytics-Dashboard-Interactive-Business-Insights/blob/main/dashboard.png(1).png?raw=true)
 ![image alt](https://github.com/salaarakhter/AI-Powered-Sales-Analytics-Dashboard-Interactive-Business-Insights/blob/66b0138a283ed218a64f57b089c6108fdb0429f5/dashboard.png(2).png)
+![image alt](https://github.com/salaarakhter/AI-Powered-Sales-Analytics-Dashboard-Interactive-Business-Insights/blob/32a056b12543cf0fee6e0ac2e0f1527ea72c08c9/dashboard.png(3).png)
